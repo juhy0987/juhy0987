@@ -1,9 +1,10 @@
 <!-- README.md -->
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -13,7 +14,10 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+![LangChain](https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+
+-
 
 ## 🔧 Tools
 
@@ -22,11 +26,12 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+-
 
 ## 📊 GitHub Stats
 
 ![juhy0987's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhy0987&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhy0987&layout=compact&theme=radical)
 
 ## 🏅 Solved.ac stats
