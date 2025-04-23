@@ -28,3 +28,6 @@
 
 ![juhy0987's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhy0987&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhy0987&layout=compact&theme=radical)
+
+## 🏅 Solved.ac stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=juhy0987)](https://solved.ac/juhy0987)
