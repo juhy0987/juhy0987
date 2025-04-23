@@ -28,13 +28,3 @@
 
 ![juhy0987's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhy0987&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhy0987&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=juhy0987&theme=radical)](https://git.io/streak-stats)
-
----
-
-> ✨ 꾸준히 성장하고 있는 개발자 juhy0987입니다. 함께 협업하고 싶은 분은 언제든지 연락주세요! ✨
