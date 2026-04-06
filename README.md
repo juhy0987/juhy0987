@@ -8,11 +8,8 @@
 | **Issue-Tracker** | 실시간 사회 현상 트래킹을 위한 임베딩 + 상시 모니터링 크롤러 | [![Website](https://img.shields.io/badge/Official_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](tmp) |
 ---
 
-## 📊 GitHub Stats
-
-![juhy0987's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhy0987&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhy0987&layout=compact&theme=radical)
-
 ## 🏅 Solved.ac stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=juhy0987)](https://solved.ac/juhy0987)
+
+#### Contact
+✉️ juhy0987@naver.com
